@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>John Doe's Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0;
+    }
+    h2 {
+      font-size: 1.5em;
+      margin-top: 0;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .section-header {
+      background-color: #ccc;
+      padding: 5px 10px;
+      font-weight: bold;
+    }
+    .section-content {
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>John Doe</h1>
+    <h2>Web Developer</h2>
+    <ul>
+      <li>Email: Ayoub@example.com</li>
+      <li>Phone: ###-###-####</li>
+      <li>LinkedIn: linkedin.com/in/johndoe</li>
+      <li>Github: github.com/johndoe</li>
+    </ul>
+  </header>
+  <main>
+    <section class="section">
+      <div class="section-header">Summary</div>
+      <div class="section-content">
+        <p>Web developer with 3 years of experience in building responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and React. Strong problem-solving skills and ability to work collaboratively in a team environment.</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="section-header">Skills</div>
+      <div class="section-content">
+        <ul>
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>JavaScript</li>
+          <li>React</li>
+          <li>Bootstrap</li>
+          <li>Git</li>
+          <li>Responsive design</li>
+          <li>Cross-browser compatibility</li>
+          <li>Agile methodology</li>
+        </ul>
+      </div>
+    </section>
+    <section class="section">
+      <div class="section-header">Experience</div>
+      <div class="section-content">
+        <h3>Web Developer</h3>
+        <h4>ABC Company</h4>
+        <p>June 2019 - Present</p>
+        <ul>
+          <li>Developed and maintained company website using React and CSS.</li>
+          <li>Collaborated with marketing team to design and implement landing pages for marketing campaigns.</li>
+          <li>Improved website performance by optimizing images and implementing lazy loading.</li>
+          <li>Developed and maintained internal tools for tracking website analytics.</li>
+        </ul>
+        <h3>Web Developer Intern</h3>
+        <h4>XYZ Company</h4>
+        <p>January 2019 - May 2019</p>
+        <ul>
+          <li>Assisted senior developers in building and maintaining websites for clients.</li>
+          <li>Developed responsive email templates using HTML
